@@ -1,1 +1,1 @@
-![cheat-sheet](image-1.png)
+![cheat-sheet](image-2.png))
